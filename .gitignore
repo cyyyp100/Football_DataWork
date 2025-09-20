@@ -1,0 +1,16 @@
+# Environnements
+.env
+.venv/
+venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# Données volumineuses
+*.csv
+*.xlsx
+*.parquet
+*.zip
+
+# OS
+.DS_Store
+Thumbs.db
